@@ -1,3 +1,1 @@
 # ikt-csapatmunka
-# hi
-# haloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
