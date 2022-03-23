@@ -1,0 +1,8 @@
+.menulista {
+    list-style-type: none;
+}
+
+.menu {
+    float: left;
+    margin: 50px;
+}
