@@ -4,5 +4,6 @@
 
 .menu {
     float: left;
-    margin: 50px;
+    padding: 50px;
+    background-color: rgb(82, 82, 82)
 }
