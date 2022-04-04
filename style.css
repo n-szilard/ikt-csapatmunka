@@ -1,9 +1,28 @@
+.html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.menulista>li>a {
+    text-decoration: none;
+    color: white;
+}
+
 .menulista {
     list-style-type: none;
+    margin: 0px;
+}
+
+.menulista>li {
+    padding-top: 2em;
 }
 
 .menu {
     float: left;
-    padding: 50px;
-    background-color: rgb(82, 82, 82)
+    background-color: rgb(82, 82, 82);
+    margin: 0px;
+    height: 100%;
+}
+
+.hatter {
+    width: 400px;
 }
