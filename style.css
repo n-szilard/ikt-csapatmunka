@@ -31,3 +31,12 @@ hr {
     border: 1px inset #303030;
     margin: 0px;
 }
+
+.tartalom {
+    float: right;
+}
+
+.golyok>img {
+    max-width: 30%;
+    height: auto;
+}
