@@ -33,10 +33,15 @@ hr {
 }
 
 .tartalom {
-    float: right;
+    padding-left: 3em;
+    padding-right: 3em;
 }
 
 .golyok>img {
     max-width: 30%;
     height: auto;
+}
+
+.container {
+    display: flex;
 }
