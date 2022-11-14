@@ -6,3 +6,4 @@
 ## github pages oldal
 https://n-szilard.github.io/ikt-csapatmunka/
 
+# Halloou
